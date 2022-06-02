@@ -13,7 +13,7 @@ let colors = ["red","yellow","orange","cyan","magenta","green","yellowgreen","#5
 // ###### SOME VARIABLE ######
 let isplay = false;
 let minuteCounter=0;
-let secCounter = 50;
+let secCounter = 0;
 let centiCounter = 0;
 let sec;
 let centisec;
